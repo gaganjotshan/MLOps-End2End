@@ -1,6 +1,6 @@
-# MLOps-End2End
-End-to-End Machine Learning Project.
+# [Introduction to MLOps](https://ml-ops.org/content/mlops-stack-canvas)
 
+End-to-End Machine Learning Project.
 1. Data Ingestion
 2. Data Transformation
 3. Model Trainer
@@ -34,7 +34,7 @@ git push -u origin main
 ```
 
 ### 1. b. setup.py
-setup.py is a Python script traditionally used for configuring the packaging and distribution of Python projects. It is an essential file for any Python project that you want to distribute, either as a source distribution or as a precompiled wheel. The setup.py script contains metadata about the project, such as its name, version, author, license, and dependencies.
+setup.py is a Python script traditionally used for configuring the packaging and distribution of Python projects. It is an essential file for any Python project you want to distribute, either as a source distribution or as a precompiled wheel. The setup.py script contains metadata about the project, such as its name, version, author, license, and dependencies.
 
 - **Purpose**: Primarily used for packaging and distributing your project. It defines the metadata about the project and its dependencies.
 - **Typical Usage**: When you want to distribute your project (e.g., upload it to PyPI), other users or automated systems can install it using `pip install your_project`.
