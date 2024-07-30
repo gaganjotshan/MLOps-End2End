@@ -56,4 +56,4 @@ You can ensure that the dependencies listed in `requirements.txt` are also inclu
 
 
 ## 2. Scr folder and build up the packages
-Organize your code into a src folder to keep the project structure clean and maintainable. The src folder will contain all the modules and packages necessary for your project.
+Organize your code into a src folder to keep the project structure clean and maintainable. The src folder will contain all the modules and packages necessary for the project.
